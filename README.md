@@ -1,7 +1,7 @@
 > eCommerce platform built with the MERN stack & Redux.
 
 ## Live Prview Project 
-- Production Link Change due to Heroku Free tire closed move Heroku to cyclic.sh
+- You can see the live project on -:
 [Demo Project](https://proshop.cyclic.cloud/)
 
 ## Features
