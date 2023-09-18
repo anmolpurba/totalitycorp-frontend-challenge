@@ -2,7 +2,7 @@
 
 ## Live Prview Project 
 - You can see the live project on -:
-[Demo Project](https://proshop.cyclic.cloud/)
+[Proshop](https://proshop.cyclic.cloud/)
 
 ## Features
 
